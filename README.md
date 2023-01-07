@@ -9,7 +9,7 @@
 <code><img height="20" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"></code>
 
-#### 💻 My social networks ...
+#### 😎 My social networks ...
 
 <a href="https://www.instagram.com/luisisaacmunoz/">
   <img align="left" alt="Luis Isaac Instagram" width="22px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" />
@@ -17,6 +17,13 @@
 <a href="https://www.linkedin.com/in/luisisaacmuñozgarcia/">
   <img align="left" alt="Luis Isaac LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
+<br/>
+
+#### ⚡ other of my interests ...
+- I am a Gamer 🎮👾
+- 3D modeling
+
+
 <!--
 **isaac38/isaac38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
