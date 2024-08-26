@@ -2,15 +2,12 @@
 
 <h2> 💻 Technologies that I have used ...</h2>
 <code><img height="20" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png"></code>
-<code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png"></code>
-<code><img height="20" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"></code>
 <code><img height="20" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></code>
 <br/>
 
 <h2>🤓 I’m currently learning ... </h2>
-<code><img height="20" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></code>
 <code><img height="25" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 </br>
 
