@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Isaac and i am Front-End Developer 👋🤙</h1>
+<h1 align="center">Hi, I am Isaac and i am Full Stack Developer 👋🤙</h1>
 
 <h2> 💻 Technologies that I have used ...</h2>
 <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png"></code>
