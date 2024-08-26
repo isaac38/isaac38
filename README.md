@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Isaac and i am Full Stack Developer 👋🤙</h1>
 
 <h2> 💻 Technologies that I have used ...</h2>
-<code><img height="20" src="https://www.cdnlogo.com/logos/l/57/laravel.svg"></code>
+<code><img height="20" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png"></code>
 <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png"></code>
 <code><img height="20" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"></code>
